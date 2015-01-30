@@ -169,3 +169,5 @@ scg558.o: sentences/scg558.c
 	$(CC) -c $<
 twn346.o: sentences/twn346.c
 	$(CC) -c $<
+wldzc.o: sentences/wldzc.c
+	$(CC) -c $<
